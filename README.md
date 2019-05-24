@@ -1,6 +1,7 @@
 ## Management System
 
-Managemente system project (Personal project)
+Management system project (Personal project)
+Sistema implementado en Node + React
 
 ## Available Scripts
 
